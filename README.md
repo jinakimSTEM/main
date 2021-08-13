@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.io/jinakimSTEMP/main/compiler.jpg)
+[Link](url) and <img src="/compiler.jpg" alt="Compiling Process" style="height: 100px; width:100px;"/>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
