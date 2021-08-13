@@ -6,12 +6,20 @@ To start writing a program in C++, you need two things.
 - A text editor, like Notepad++, to write C++ source code
 - A compiler, like Clang, GCC, VC to translate the C++ code into a machine language that the computer can understand.
 
+<img src="Compiler.jpg" alt="Compiling Process" style="float: left; height=30; width=80;" />
 
-You can use the [editor on GitHub](https://github.com/jinakimSTEM/main/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### First Run
+
+Write the following code and run compiler.
+```C++
+#include <iostream>
+
+void main() {
+  std::cout << "Hello world!";
+}
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Link](url) and ![Compiling](/Compiler.jpg)
+[Link](url) and 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
