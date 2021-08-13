@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## How to Write a First Program in C++
+
+Many applications are running for specific tasks on computer every day. You might be curious about how to write such a program. One of popular programming lanugages is C++. Programs written in C++ language is generally faster and smaller than programs in the other languages.
+
+To start writing a program in C++, you need two things.
+- A text editor, like Notepad++, to write C++ source code
+- A compiler, like Clang, GCC, VC to translate the C++ code into a machine language that the computer can understand.
+
 
 You can use the [editor on GitHub](https://github.com/jinakimSTEM/main/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.io/jinakimSTEMP/main/compiler.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
