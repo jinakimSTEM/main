@@ -1,4 +1,4 @@
-## How to Write a First Program in C++
+## How to Write Your First Program in C++
 
 Many applications are running for specific tasks on computer every day. You might be curious about how to write such a program. One of popular programming lanugages is C++. Programs written in C++ language is generally faster and smaller than programs in the other languages.
 
@@ -30,7 +30,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Compiling](https://github.com/jinakimSTEM/main/blob/main/Compiler.jpg)
+[Link](url) and ![Compiling](https://jinakimstem.github.io/main/compiler.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
