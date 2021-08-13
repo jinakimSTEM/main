@@ -21,33 +21,29 @@ void main() {
 }
 ```
 And then, run the compiled program. Then, the output should look like this.
-<img src="HelloWorld.PNG" alt="Hello World" style="float: left; height=30; width=80;" />
+<img src="HelloWorld.PNG" alt="Hello World" style="float: left; height=20; width=80;" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Yay! You have written and run your first program in C++.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### A Program Breakdown
+1. To display the output, you can take advantage of the existing libraries. `iostream` is the library that supports input and output using console.
+```C++
+#include <iostream>
 ```
-[Link](url) and 
+2. The main program file must include a function called `main()`. This is where execution of the program begins. From here, you should be calling functions, instantiating classes, etc. Other files of your application as well as libraries can be included into this file.
+```C++
+void main() {
+}
+```
+3. You can add your business logic to the body of `main()` function. Learn the syntax, Object-Oriented programming concept, data structure, algorithm designs such as linked lists, priority queues, etc. In the example, "Hello world!" is displayed using `iostream` library. 
+```C++
+  std::cout << "Hello world!";
+```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### In Closing
+C++ is not an easy language to program in, but doing so teaches you the fundamentals that extend to all programming languages.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinakimSTEM/main/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### References
+[Writing Standard Code](https://www.wikihow.com/Write-Standard-Code-in-C%2B%2B)
+[C++ Getting Started](https://www.w3schools.com/cpp/cpp_getstarted.asp)
+[Program Structure](https://www.cplusplus.com/doc/tutorial/program_structure/)
