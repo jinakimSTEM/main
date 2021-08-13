@@ -20,7 +20,8 @@ void main() {
   std::cout << "Hello world!";
 }
 ```
-
+And then, run the compiled program. Then, the output should look like this.
+<img src="HelloWorld.PNG" alt="Hello World" style="float: left; height=30; width=80;" />
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
