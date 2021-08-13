@@ -44,6 +44,6 @@ void main() {
 C++ is not an easy language to program in, but doing so teaches you the fundamentals that extend to all programming languages.
 
 ### References
-[Writing Standard Code](https://www.wikihow.com/Write-Standard-Code-in-C%2B%2B)
-[C++ Getting Started](https://www.w3schools.com/cpp/cpp_getstarted.asp)
-[Program Structure](https://www.cplusplus.com/doc/tutorial/program_structure/)
+1. [Writing Standard Code](https://www.wikihow.com/Write-Standard-Code-in-C%2B%2B)
+2. [C++ Getting Started](https://www.w3schools.com/cpp/cpp_getstarted.asp)
+3. [Program Structure](https://www.cplusplus.com/doc/tutorial/program_structure/)
